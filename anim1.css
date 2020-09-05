@@ -1,7 +1,11 @@
+
 body
 {
   margin: 0;
   padding: 0;
+
+
+
 }
 .happy
 {
@@ -9,6 +13,7 @@ body
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
+
 }
 .happy span
 {
@@ -49,7 +54,8 @@ body
     color: #f00;
     box-shadow: 0 2px 10px rgba(255, 0, 0, 1);
     border: 2px solid rgba(255, 0, 0, 1);
- }
+
+  }
 }
 .happy span:nth-child(1)
 {
@@ -156,12 +162,16 @@ body
 {
   animation-delay: 0.7s;
 }
+
+
+
 .aditi
 {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+
 }
 .aditi span
 {
@@ -202,7 +212,8 @@ body
     color: #f00;
     box-shadow: 0 2px 10px rgba(255, 0, 0, 1);
     border: 2px solid rgba(255, 0, 0, 1);
-}
+
+  }
 }
 .aditi span:nth-child(1)
 {
@@ -224,12 +235,16 @@ body
 {
   animation-delay: 0.4s;
 }
+
+
+
 .
 {
   margin: 0;
   padding: 0;
   font-family: consolas;
   box-sizing: border-box;
+
 }
 body
 {
@@ -238,8 +253,10 @@ body
   align-items:  flex-end;
   min-height: 100vh;
   flex-direction: row;
+  background: #050801;
   background-image: url("746475_night-stars-png(1).png");
-  
+
+
 }
 a
 {
@@ -255,6 +272,9 @@ a
   transition: 0.5s;
   letter-spacing: 4px;
   -webkit-box-reflect: below 1px linear-gradient(transparent,#0005);
+
+
+
 }
 a:nth-child(4)
 {
@@ -264,6 +284,8 @@ a:nth-child(6)
 {
   filter: hue-rotate(110deg);
 }
+
+
 a:hover
 {
   background: #03e9f4;
@@ -286,6 +308,8 @@ a span:nth-child(1)
   height: 2px;
   background: linear-gradient(180deg,transparent,#03e9f4);
   animation: animate1 1s linear infinite;
+
+
 }
 @keyframes animate1 {
   0%
@@ -296,7 +320,10 @@ a span:nth-child(1)
   {
     left: 100%;
   }
+
 }
+
+
 a span:nth-child(2)
 {
   top: -100%;
@@ -306,6 +333,7 @@ a span:nth-child(2)
   background: linear-gradient(90deg,transparent,#03e9f4);
   animation: animate2 1s linear infinite;
   animation-delay: 0.25s;
+
 }
 @keyframes animate2 {
   0%
@@ -316,7 +344,11 @@ a span:nth-child(2)
   {
     top: 100%;
   }
+
 }
+
+
+
 a span:nth-child(3)
 {
   bottom: 0;
@@ -326,6 +358,7 @@ a span:nth-child(3)
   background: linear-gradient(270deg,transparent,#03e9f4);
   animation: animate3 1s linear infinite;
   animation-delay:0.5s;
+
 }
 @keyframes animate3 {
   0%
@@ -336,7 +369,9 @@ a span:nth-child(3)
   {
     right: 100%;
   }
+
 }
+
 a span:nth-child(4)
 {
   bottom: -100%;
@@ -346,6 +381,7 @@ a span:nth-child(4)
   background: linear-gradient(360deg,transparent,#03e9f4);
   animation: animate4 1s linear infinite;
   animation-delay: 0.75s;
+
 }
 @keyframes animate4 {
   0%
@@ -356,4 +392,5 @@ a span:nth-child(4)
   {
     bottom: 100%;
   }
+
 }
