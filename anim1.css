@@ -239,7 +239,6 @@ body
   min-height: 100vh;
   flex-direction: row;
   background-image: url("746475_night-stars-png(1).png");
-  background-repeat: no-repeat;
 }
 a
 {
