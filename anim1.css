@@ -248,8 +248,8 @@ body
   align-items:  flex-end;
   min-height: 100vh;
   flex-direction: row;
-  background: #050801;
   background-image: url("746475_night-stars-png (3).png");
+  color: black;
 
 }
 a
