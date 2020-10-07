@@ -12,7 +12,8 @@ body
   align-items: center;
   min-height: 100vh;
   flex-direction: column;
-background-image: url("teahub.io-cute-unicorn-wallpaper-605034.png");
+background: #050801
+
 }
 a
 {
