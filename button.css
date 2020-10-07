@@ -13,6 +13,8 @@ body
   min-height: 100vh;
   flex-direction: column;
 background-image: url(20201007_085835.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 a
