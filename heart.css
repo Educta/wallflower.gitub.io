@@ -1,7 +1,9 @@
 body{
   margin: 0;
   padding: 0;
-  background: #262626
+  background:url('786322.jpg');
+background-size:cover;
+background-repeat:no-repeat;
 }
 
 .center{
