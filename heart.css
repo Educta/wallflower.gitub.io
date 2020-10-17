@@ -2,8 +2,9 @@ body{
   margin: 0;
   padding: 0;
   background:url('786322.jpg');
+  background-repeat:no-repeat;
 background-size:cover;
-background-repeat:repeat;
+
 }
 
 .center{
