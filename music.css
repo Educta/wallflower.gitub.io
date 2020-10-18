@@ -29,8 +29,7 @@ margin-top: 25px;
 margin: 25px;
 height: 250px;
 width: 250px;
-background-image: URL(
-	"panda_music.jpg");
+background-image:url("panda_music.jpg");
 background-size: cover;
 background-repeat:repeat;
 background-position: center;
