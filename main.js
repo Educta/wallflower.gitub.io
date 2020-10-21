@@ -54,13 +54,13 @@ let track_list = [
 	name: "Zaalima",
 	artist: "Arijit Singh",
 	image: "Image URL",
-	path: "",
+	path: "y2mate.com - Zaalima _ Raees _ Shah Rukh Khan & Mahira Khan _ Arijit Singh & Harshdeep Kaur _ JAM8 _ Pritam",
 },
 {
 	name: "Khairiyat",
 	artist: "Arijit Singh",
 	image: "Image URL",
-	path: "",
+	path: "y2mate.com - Full Song_ KHAIRIYAT (BONUS TRACK) _ CHHICHHORE _ Sushant, Shraddha _ Pritam, Amitabh B_Arijit Singh.mp3",
 },
 {
 	name: "Heaven",
@@ -85,7 +85,13 @@ let track_list = [
 	name: "Ghunghroo",
 	artist: "Vishal & Shekhar",
 	image: "Image URL",
-	path: "",
+	path: "y2mate.com - Lyrical _ Ghungroo Full Song with Lyrics _ War _ Hrithik Roshan, Vaani _ Vishal & Shekhar _ Kumaar.mp3",
+},
+	{
+	name: "Raabta",
+	artist: "Arijit Singh",
+	image: "Image URL",
+	path: "y2mate.com - Raabta Title Song (Full Video) _ Deepika Padukone, Sushant Singh Rajput, Kriti Sanon _ Pritam.mp3",
 },
 
 {
