@@ -89,7 +89,7 @@ let track_list = [
 },
 	{
 	name: "Raabta",
-	artist: "Arijit Singh",
+	artist: "Nikhita Gandhi",
 	image: "Image URL",
 	path: "y2mate.com - Raabta Title Song (Full Video) _ Deepika Padukone, Sushant Singh Rajput, Kriti Sanon _ Pritam.mp3",
 },
