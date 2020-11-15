@@ -87,7 +87,7 @@ transform: rotateY(180deg);
 section .card .box .contentBx div{
 
 transform-style: preserve-3d;
-padding: 20px;
+padding: 30px;
 background: linear-gradient(45deg, #fe0061, #ffeb3b);
 transform: translateZ(100px);
 }
