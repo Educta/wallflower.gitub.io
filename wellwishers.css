@@ -31,6 +31,7 @@ section .card{
   width: 320px;
   height: 320px;
   margin: 20px;
+padding: 20px;
   transform-style: preserve-3d;
   perspective: 1000px;
 }
@@ -57,7 +58,7 @@ section .card .box .imgBx{
   width: 100%;
   height: 100%;
 
-padding: 20px;
+
 }
 
 section .card .box .imgBx img{
