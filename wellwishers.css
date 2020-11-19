@@ -31,7 +31,7 @@ section .card{
   width: 320px;
   height: 320px;
   margin: 20px;
-padding: 30px; <!-- for size of the box   -->
+padding: 50px; <!-- for size of the box   -->
   transform-style: preserve-3d;
   perspective: 1000px;
 }
