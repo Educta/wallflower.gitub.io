@@ -54,7 +54,7 @@ let track_list = [
 	name: "Zaalima",
 	artist: "Arijit Singh",
 	image: "Image URL",
-	path: "y2mate.com - Zaalima _ Raees _ Shah Rukh Khan & Mahira Khan _ Arijit Singh & Harshdeep Kaur _ JAM8 _ Pritam",
+	path: "y2mate.com - Zaalima _ Raees _ Shah Rukh Khan & Mahira Khan _ Arijit Singh & Harshdeep Kaur _ JAM8 _ Pritam.mp3",
 },
 {
 	name: "Khairiyat",
