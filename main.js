@@ -113,22 +113,10 @@ let track_list = [
 	path: "y2mate.com - Khalid & Kane Brown - Saturday Nights REMIX (Official Audio).mp3",
 },
 {
-	name: "Chura Liya Hai tumne",
-	artist: "",
+	name: "Sage",
+	artist: "Ritviz",
 	image: "Image URL",
-	path: "",
-},
-{
-	name: "In ankhon ki masti",
-	artist: "",
-	image: "Image URL",
-	path: "",
-},
-{
-	name: "Sathiya Tune Kya Kiya",
-	artist: "",
-	image: "Image URL",
-	path: "",
+	path: "sage-lyrics.mp3",
 },
 {
 	name: "American Boy",
